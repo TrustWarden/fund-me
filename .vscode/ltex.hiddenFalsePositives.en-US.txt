@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q: The private key of your account (like from MetaMask).\\E$"}
